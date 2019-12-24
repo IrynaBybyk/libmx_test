@@ -2,6 +2,9 @@
 
 int main(void) {
     // test string functions
-    test_strcat();
+    test_strcpy();
+    test_strncpy();
+    test_strjoin();
     return 0;
 }
+
