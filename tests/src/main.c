@@ -1,7 +1,9 @@
 #include "test.h"
 
 int main(void) {
-    // test string functions
-    test_strcat();
+    test_utils();
+    test_str();
+    test_mem();
+    test_list();
     return 0;
 }
