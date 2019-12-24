@@ -1,0 +1,5 @@
+.DS_Store
+test_libmx
+test_libmx.*
+libmx.a
+
