@@ -7,6 +7,7 @@ int main(void) {
     test_strjoin();
     test_strdup();
     test_strndup();
+    test_strlen();
     return 0;
 }
 

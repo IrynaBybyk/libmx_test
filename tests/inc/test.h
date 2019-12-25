@@ -13,4 +13,6 @@ void test_strncpy(void);
 void test_strjoin(void);
 void test_strdup(void);
 void test_strndup(void);
+void test_strlen(void);
+
 #endif
